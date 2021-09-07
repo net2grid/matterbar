@@ -15,7 +15,7 @@ import (
 
 const (
 	postFallbackMaxLength = 500
-	postTextMaxLength     = 6000
+	postTextMaxLength     = 500
 )
 
 var EventToColor = map[string]string{
